@@ -11,7 +11,7 @@ function Dashboard() {
                 {courses.map((course) => (
                         <div className="card wd-dashboard-padding card-width">
                         <img className="card-img-top" src="../../blue.jpeg"
-                             width={"200"} height={"200"}></img>
+                             width={"200"} height={"200"} alt=""></img>
                             <Link
                                 key={course.id}
                                 className={`nav-link card-link`}
