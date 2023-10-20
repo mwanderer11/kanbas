@@ -7,6 +7,10 @@
     color: red
 }
 
+h1.blue{
+    color:blue;
+}
+
 .wd-sidebar-padding {
     padding-left: 20px;
 }
@@ -76,4 +80,13 @@
 .wd-flex-row-container {
     display: flex;
     flex-direction: row;
+}
+ .list-group-nav .list-group-item {
+    color: red;
+    background-color: black;
+}
+
+.list-group-nav .list-group-item:active {
+    color: red;
+    background-color: white;
 }

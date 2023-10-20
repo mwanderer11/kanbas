@@ -1,0 +1,11 @@
+[
+  { "id": "A101", "title": "Propulsion Assignment", "num": "RS101" },
+  { "id": "A102", "title": "Combustion Analysis", "num": "RS101" },
+  { "id": "A103", "title": "Nozzle Design Project", "num": "RS101" },
+  { "id": "A201", "title": "Aerodynamics Quiz", "num": "RS102" },
+  { "id": "A202", "title": "Flow Analysis", "num": "RS102" },
+  { "id": "A203", "title": "Heating Analysis", "num": "RS102" },
+  { "id": "A301", "title": "Structural Design Task", "num": "RS103" },
+  { "id": "A302", "title": "Orbital Calculations", "num": "RS103" },
+  { "id": "A303", "title": "Systems Engineering Exam", "num": "RS103" }
+]
