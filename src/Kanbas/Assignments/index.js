@@ -1,3 +1,4 @@
+/*
 import React from "react";
 import { Link, useParams } from "react-router-dom";
 import db from "../Database";
@@ -23,4 +24,4 @@ function Assignments() {
         </div>
     );
 }
-export default Assignments;
+export default Assignments;*/

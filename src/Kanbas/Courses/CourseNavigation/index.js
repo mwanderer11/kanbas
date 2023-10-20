@@ -1,6 +1,5 @@
-import { Link, useParams, useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import "../../index.css"
-import Assignments from "../../Assignments";
 
 function CourseNavigation() {
     const links = ["Home", "Modules", "Piazza", "Zoom Meetings", "Assignments",

@@ -1,5 +1,4 @@
 import ModuleList from "./ModuleList/ModuleList";
-import KanbasNavigation from "../../KanbasNavigation";
 import CourseNavigation from "../CourseNavigation";
 
 function Modules() {

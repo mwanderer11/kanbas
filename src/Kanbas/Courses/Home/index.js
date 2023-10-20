@@ -1,10 +1,8 @@
 import ModuleList from "../Modules/ModuleList/ModuleList";
 import CourseNavigation from "../CourseNavigation";
-import {useParams} from "react-router-dom";
 import {FaCalendar} from "react-icons/fa";
 
 function Home() {
-    const {courseId} = useParams();
     return (
         <div className="table-responsive">
             <table>

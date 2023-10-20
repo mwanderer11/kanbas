@@ -26,7 +26,8 @@ function Kanbas() {
                                    element={<Modules/>}/>
                             {/*<Route path="Courses/:courseId/*"*/}
                             {/*       element={<Courses/>}/>*/}
-                            <Route path="Assignments/:assignmentId"
+                   {/*         <Route path="Assignments" element={<Assignment/>} />
+                            <Route path="Assignments/:assignmentId"*/}
                                    element={<AssignmentEditor/>}/>
                             <Route path="Grades" element={<h1>Grades</h1>}/>
                         </Routes>
