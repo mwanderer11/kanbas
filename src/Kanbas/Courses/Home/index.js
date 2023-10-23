@@ -8,15 +8,6 @@ function Home() {
             <table>
                 <thead>
                 <tr>
-                    <td valign="top" width="25%">
-                        <nav aria-label="breadcrumb">
-                            <ol className="breadcrumb bg-light">
-                                <li className="breadcrumb-item active">RS4550</li>
-                                <li className="breadcrumb-item active">Fall 2023</li>
-                                <li className="breadcrumb-item active">Home</li>
-                            </ol>
-                        </nav>
-                    </td>
                     <td valign="top">
                         <select className="form-select-sm float-end small">
                             <option selected>Publish All</option>
@@ -37,16 +28,12 @@ function Home() {
                 </thead>
                 <tbody>
                 <tr>
-                    <td valign="top" width="25%">
-                        <CourseNavigation/>
-                    </td>
                     <td>
                         <ModuleList/>
                     </td>
                     <td valign="top">
                         <h1>Status</h1>
                         <h1><FaCalendar/></h1>
-
                     </td>
                 </tr>
                 </tbody>

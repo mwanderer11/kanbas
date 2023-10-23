@@ -4,8 +4,8 @@ import AssignmentEditor from "./Assignments/AssignmentEditor";
 import Home from "../Kanbas/Courses/Home"
 import KanbasNavigation from "./KanbasNavigation";
 import Dashboard from "./Dashboard";
-import Courses from "./Courses";
-import Assignments from "./Assignments/assignments";
+import Courses from "../Kanbas/Courses/index";
+import Assignments from "../Kanbas/Assignments/index";
 
 function Kanbas() {
     return (

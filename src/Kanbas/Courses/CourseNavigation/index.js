@@ -7,7 +7,7 @@ function CourseNavigation() {
     const { pathname } = useLocation();
     const{ courseId } = useParams();
     return (
-        <div className="list-group position-fixed " style={{width: 150}}>
+        <div className="list-group position-fixed " style={{width: 100}}>
             {links.map((link, index) => (
                 <Link
                     key={index}
