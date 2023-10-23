@@ -12,11 +12,11 @@ function Courses() {
     const course = db.courses.find((course) => course.id === courseId);
     console.log(course);
     return (
-        <div className="table-borderless table-responsive wd-padding-left-small">
+        <div className="table-responsive">
             <table className="table" border="0" width="100">
                 <tbody>
-                <tr>
-                    <td valign="top" width="25%">
+                <tr className="no-bottom">
+                    <td valign="top" width="20%" className="no-border">
                         <nav aria-label="breadcrumb">
                             <ol className="breadcrumb bg-light">
                                 <li className="breadcrumb-item active">{course.name}</li>
@@ -38,7 +38,6 @@ function Courses() {
                                    element={<AssignmentEditor/>}/>
                             <Route path="Grades" element={<h1>Grades</h1>}/>
                         </Routes>
-
                     </div>
                 </tr>
                 </tbody>

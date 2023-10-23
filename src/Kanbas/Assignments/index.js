@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useParams } from "react-router-dom";
 import db from "../Database/index.js";
-
+import {FaCheckCircle} from "react-icons/fa";
 
 function Assignments() {
     const { courseId } = useParams();
@@ -15,8 +15,8 @@ function Assignments() {
                     <Link
                         key={assignment.id}
                         to={`/Kanbas/Courses/${courseId}/Assignments/${assignment.id}`}
-                        className="list-group-item">
-                        {assignment.title}
+                        className="list-group-item assignment-spacing">
+                        {assignment.title} <FaCheckCircle color="color-green"/>
                     </Link>
                 ))}
             </div>

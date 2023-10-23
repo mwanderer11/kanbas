@@ -107,10 +107,26 @@ h1.blue{
     height: 300px;
 }
 
+.module-spacing {
+    padding-bottom: 50px;
+}
+
 .wd-padding-left {
     padding-left: 200px;
 }
 
 .wd-padding-left-small {
     padding-left: 100px;
+}
+
+.assignment-spacing {
+    padding-bottom: 25px;
+}
+
+.no-border td {
+    border-bottom: none;
+}
+
+.no-bottom tr {
+    border-bottom: none;
 }
