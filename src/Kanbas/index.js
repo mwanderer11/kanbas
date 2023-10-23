@@ -4,6 +4,8 @@ import AssignmentEditor from "./Assignments/AssignmentEditor";
 import Home from "../Kanbas/Courses/Home"
 import KanbasNavigation from "./KanbasNavigation";
 import Dashboard from "./Dashboard";
+import Courses from "./Courses";
+import Assignments from "./Assignments/assignments";
 
 function Kanbas() {
     return (
@@ -24,9 +26,9 @@ function Kanbas() {
                                    element={<Home/>}/>
                             <Route path="Modules"
                                    element={<Modules/>}/>
-                            {/*<Route path="Courses/:courseId/*"*/}
-                            {/*       element={<Courses/>}/>*/}
-                   {/*         <Route path="Assignments" element={<Assignment/>} />*/}
+                            <Route path="Courses/:courseId/*"
+                                   element={<Courses/>}/>
+                            <Route path="Assignments" element={<Assignments/>} />
                             <Route path="Assignments/:assignmentId"
                                    element={<AssignmentEditor/>}/>
                             <Route path="Grades" element={<h1>Grades</h1>}/>

@@ -1,13 +1,13 @@
 import {Navigate, Route, Routes, useParams} from "react-router-dom";
 import CourseNavigation from "./CourseNavigation";
 import Home from "./Home";
-import Assignments from "../Assignments";
+import Assignments from "../Assignments/assignments";
 import AssignmentEditor from "../Assignments/AssignmentEditor";
 import Modules from "./Modules";
-import db from "../../Kanbas/Database";
+import db from "../Database/index.js"
 
 function Courses() {
-    const {courseId} = useParams();
+    const courseId = useParams();
     const course = db.courses.find((course) => course.id === courseId);
     return (
         <div className="table-borderless table-responsive wd-padding-left-small">
@@ -31,6 +31,7 @@ function Courses() {
                             <Route path="Home" element={<Home/>}/>
                             <Route path="Modules" element={<Modules/>}/>
                             <Route path="Assignments" element={<Assignments/>}/>
+                            <Route path="Courses/:CourseId/*" element={<Courses/>}/>
                             <Route path="Assignments/:assignmentId"
                                    element={<AssignmentEditor/>}/>
                             <Route path="Grades" element={<h1>Grades</h1>}/>

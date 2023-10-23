@@ -8,7 +8,7 @@ function Nav() {
             <Link className={`nav-link ${pathname.includes("hello") ? "active" : ""}`}
                   to="/hello">Hello</Link>
             <Link className={`nav-link ${pathname.includes("Kanbas") ? "active" : ""}`}
-                  to="/Kanbas/Home">Kanbas</Link>
+                  to="/Kanbas/Courses/RS101">Kanbas</Link>
         </nav>
     );
 }

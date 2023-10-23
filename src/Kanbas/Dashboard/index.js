@@ -15,7 +15,7 @@ function Dashboard() {
                             <Link
                                 key={course.id}
                                 className={`nav-link card-link`}
-                                to={`/Kanbas/Home`}> {course.name}: {course.number}
+                                to={`/Kanbas/Courses/${course.id}`}> {course.name}: {course.number}
                     </Link>
                         </div>
                 ))}
