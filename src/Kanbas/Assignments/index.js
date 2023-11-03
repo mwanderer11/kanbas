@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useParams } from "react-router-dom";
 import {FaCheckCircle} from "react-icons/fa";
-import { useSelector, useDispatch} from "react-redux";
+import { useSelector} from "react-redux";
 
 function Assignments() {
     const { courseId } = useParams();

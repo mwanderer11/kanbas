@@ -8,7 +8,6 @@ function AssignmentEditor() {
     const assignments = useSelector((state) => state.assignmentsReducer.assignments);
     const assignment = assignments.find(
         (assignment) => assignment.id === assignmentId);
-    const dispatch = useDispatch();
 
     const navigate = useNavigate();
     const handleSave = () => {
