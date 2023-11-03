@@ -79,6 +79,7 @@ h1.blue{
 
 .wd-flex-row-container {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
 }
 .list-group-item-danger {
@@ -129,4 +130,8 @@ h1.blue{
 
 .no-bottom tr {
     border-bottom: none;
+}
+
+.wd-margin-left {
+    margin-left: 30px;
 }

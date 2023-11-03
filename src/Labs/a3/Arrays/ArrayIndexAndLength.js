@@ -8,6 +8,7 @@ function ArrayIndexAndLength() {
             <h2>Array Index and Length</h2> <br/>
             length1 = {length1} <br/>
             index1 = {index1} <br/>
+            item
          </>
     )
 }

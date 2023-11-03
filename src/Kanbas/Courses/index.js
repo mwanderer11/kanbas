@@ -4,12 +4,13 @@ import Home from "./Home";
 import Assignments from "../Assignments/index.js";
 import AssignmentEditor from "../Assignments/AssignmentEditor";
 import Modules from "./Modules";
-import db from "../Database"
 
-function Courses() {
+function Courses({courses}) {
     const {courseId} = useParams();
     console.log(courseId);
-    const course = db.courses.find((course) => course.id === courseId);
+    console.log(...courses);
+    console.log(courseId);
+    const course = courses.find((course) => course.id === courseId);
     console.log(course);
     return (
         <div className="table-responsive">
@@ -19,7 +20,7 @@ function Courses() {
                     <td valign="top" width="20%" className="no-border">
                         <nav aria-label="breadcrumb">
                             <ol className="breadcrumb bg-light">
-                                <li className="breadcrumb-item active">{course.name}</li>
+                                <li className="breadcrumb-item active">course</li>
                                 <li className="breadcrumb-item active">Fall 2023</li>
                                 <li className="breadcrumb-item active">Home</li>
                             </ol>

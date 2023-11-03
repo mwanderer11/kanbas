@@ -1,15 +1,21 @@
 import React from "react";
 import { useNavigate, useParams, Link } from "react-router-dom";
-import db from "../../Database";
+import {
+    addAssignment,
+    deleteAssignment,
+    updateAssignment,
+    setAssignment,
+} from "../assignmentsReducer";
+import {useDispatch, useSelector} from "react-redux";
 
-
-function AssignmentEditor() {
+function AssignmentEditor(action) {
     const { assignmentId } = useParams();
-    const assignment = db.assignments.find(
+    const {courseId } = useParams();
+    const assignments = useSelector((state) => state.assignmentsReducer.assignments);
+    const assignment = assignments.find(
         (assignment) => assignment.id === assignmentId);
+    const dispatch = useDispatch();
 
-
-    const { courseId } = useParams();
     const navigate = useNavigate();
     const handleSave = () => {
         console.log("Actually saving assignment TBD in later assignments");
