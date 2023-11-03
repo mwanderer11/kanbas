@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate, useParams, Link } from "react-router-dom";
-import {useDispatch, useSelector} from "react-redux";
+import { useSelector} from "react-redux";
 
 function AssignmentEditor() {
     const { assignmentId } = useParams();
