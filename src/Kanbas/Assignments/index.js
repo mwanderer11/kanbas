@@ -2,18 +2,10 @@ import React from "react";
 import { Link, useParams } from "react-router-dom";
 import {FaCheckCircle} from "react-icons/fa";
 import { useSelector, useDispatch} from "react-redux";
-import {
-    addAssignment,
-    deleteAssignment,
-    updateAssignment,
-    setAssignment,
-} from "./assignmentsReducer";
 
 function Assignments() {
     const { courseId } = useParams();
     const assignments = useSelector((state) => state.assignmentsReducer.assignments);
-    const assignment = useSelector((state) => state.assignmentsReducer.assignment);
-    const dispatch = useDispatch();
 
     return (
         <div>

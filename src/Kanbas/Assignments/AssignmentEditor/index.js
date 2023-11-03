@@ -1,14 +1,8 @@
 import React from "react";
 import { useNavigate, useParams, Link } from "react-router-dom";
-import {
-    addAssignment,
-    deleteAssignment,
-    updateAssignment,
-    setAssignment,
-} from "../assignmentsReducer";
 import {useDispatch, useSelector} from "react-redux";
 
-function AssignmentEditor(action) {
+function AssignmentEditor() {
     const { assignmentId } = useParams();
     const {courseId } = useParams();
     const assignments = useSelector((state) => state.assignmentsReducer.assignments);
