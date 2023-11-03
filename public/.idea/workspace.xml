@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb116cb4-0e26-480d-91bf-9275e1ce1a17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/public.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ArrowFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/MapFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/a3/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanbas-app/.style 2.css.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanbas-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kanbas-app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanbas-app/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/kanbas-app/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.adversal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.affiliatetheme 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.amilia 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.angellist 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.apple 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.asymmetrik 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.autoprefixer 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.avianex 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.behance 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.blackberry 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.btc 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.buffer 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.buromobelexperte 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.cc-amazon-pay 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.cc-mastercard 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.chrome 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.cloudscale 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.cloudsmith 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.cloudversify 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.codepen 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.contao 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.cotton-bureau 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.cpanel 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.creative-commons-by 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.creative-commons-sampling 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.creative-commons-zero 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.css3 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.dailymotion 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.dashcube 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.deploydog 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.dhl 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.discord 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.dribbble 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.ebay 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.ember 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.evernote 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.facebook-messenger 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.facebook-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.fantasy-flight-games 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.firefox 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.firefox-browser 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.first-order 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.firstdraft 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.flickr 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.forumbee 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.get-pocket 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.gitkraken 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.gitter 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.glide 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.glide-g 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.gofore 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.google-plus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.google-plus-g 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.grav 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.grunt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.guilded 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.hacker-news-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.hips 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.hive 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.hooli 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.hornbill 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.ideal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.innosoft 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.internet-explorer 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.itunes 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.itunes-note 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.jedi-order 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.js-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.jsfiddle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.korvue 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.less 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.line 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.linkedin 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.linode 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.mandalorian 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.maxcdn 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.medapps 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.medium-m 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.megaport 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.mixcloud 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.mixer 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.napster 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.nimblr 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.node 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.node-js 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.ns8 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.nutritionix 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.odnoklassniki-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.old-republic 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.opera 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.optin-monster 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.palfed 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.patreon 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.phabricator 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.pied-piper-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.pied-piper-pp 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.pinterest-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.product-hunt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.pushed 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.qq 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.react 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.reddit 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.renren 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.resolving 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.searchengin 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.sistrix 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.skype 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.slack 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.snapchat-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.soundcloud 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.staylinked 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.steam-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.steam-symbol 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.sticker-mule 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.stripe 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.studiovinari 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.swift 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.telegram-plane 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.themeco 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.tiktok 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.trello 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.twitter 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.twitter-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.typo3 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.uikit 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.uncharted 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.ups 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.vaadin 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.viadeo 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.vnv 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.vuejs 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.watchman-monitoring 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.waze 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.weebly 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.wikipedia-w 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.wordpress 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.wordpress-simple 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.wpforms 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.xbox 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.xing 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/brands/.zhihu 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.air-freshener 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.american-sign-language-interpreting 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.apple-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.at 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.audio-description 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.award 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.baby 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.baby-carriage 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.backward 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bacteria 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bacterium 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.balance-scale-left 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.balance-scale-right 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.baseball-ball 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.basketball-ball 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bath 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.battery-three-quarters 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.biking 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.biohazard 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.birthday-cake 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.blind 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bold 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bomb 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bong 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.book-dead 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.book-reader 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.border-style 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.box 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.box-open 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.brain 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bread-slice 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.briefcase-medical 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.broadcast-tower 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.brush 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bullhorn 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.burn 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.bus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.business-time 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.calendar-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.calendar-check 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.camera 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.camera-retro 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.candy-cane 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cannabis 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.car-crash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.caret-square-down 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.caret-square-left 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.carrot 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cart-arrow-down 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cart-plus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cash-register 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.certificate 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.chart-bar 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.chart-line 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.chess 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.chess-board 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.chess-knight 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.child 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.church 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.circle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.city 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.clipboard-list 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.closed-captioning 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cloud-download-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cloud-moon-rain 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cloud-sun 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cloud-upload-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cocktail 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.code 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.code-branch 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.coffee 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cog 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cogs 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.coins 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.comment-dollar 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.comment-medical 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.comment-slash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.comments 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.comments-dollar 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.compact-disc 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.compress 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.compress-arrows-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.concierge-bell 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cookie 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cookie-bite 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.copy 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.copyright 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.couch 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.crop 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.crow 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.crown 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cube 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.cubes 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.database 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.democrat 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.desktop 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.diagnoses 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dice-d6 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dice-five 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dice-one 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dice-three 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.directions 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.disease 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.divide 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dizzy 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dna 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dog 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dollar-sign 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dolly 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dolly-flatbed 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.donate 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.door-closed 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.door-open 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dot-circle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.download 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dragon 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.drum-steelpan 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.drumstick-bite 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dumpster 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dumpster-fire 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.dungeon 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.egg 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.eject 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ellipsis-h 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ellipsis-v 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.envelope 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.envelope-open 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.envelope-open-text 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.envelope-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.equals 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.eraser 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.euro-sign 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.exchange-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.exclamation-circle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.exclamation-triangle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.expand 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.expand-arrows-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.eye-dropper 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.eye-slash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fan 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fast-backward 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fast-forward 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fax 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.feather 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.feather-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fighter-jet 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-archive 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-audio 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-contract 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-download 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-excel 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-export 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-image 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-import 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-invoice-dollar 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-medical 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-medical-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-powerpoint 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-video 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.file-word 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fill-drip 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fire 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fire-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fire-extinguisher 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fish 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.fist-raised 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.flag 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.flag-checkered 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.flag-usa 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.flask 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.folder-minus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.folder-open 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.folder-plus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.font-awesome-logo-full 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.football-ball 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.frown 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.frown-open 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.funnel-dollar 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.gas-pump 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.gem 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ghost 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.gifts 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.glass-cheers 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.glass-martini 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.glass-martini-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.glass-whiskey 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.glasses 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.globe-asia 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.golf-ball 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.gopuram 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.graduation-cap 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.greater-than 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.greater-than-equal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grimace 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-beam 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-beam-sweat 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-hearts 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-squint 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-squint-tears 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-tears 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-tongue 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-tongue-squint 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-tongue-wink 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grin-wink 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grip-horizontal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.grip-lines 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.guitar 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.h-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hamburger 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hamsa 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-holding 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-holding-medical 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-holding-usd 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-holding-water 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-lizard 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-paper 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-peace 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-point-down 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-point-left 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-point-right 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-point-up 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-scissors 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-sparkles 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hand-spock 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hands-helping 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hands-wash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.handshake-slash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hard-hat 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hashtag 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hat-cowboy 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hat-cowboy-side 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hat-wizard 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.head-side-cough 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.head-side-virus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.heading 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.headphones 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.headset 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.helicopter 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hiking 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hippo 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.holly-berry 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.home 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.horse 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.horse-head 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hospital 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hospital-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hot-tub 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hotdog 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hotel 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hourglass 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hourglass-end 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hourglass-half 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hourglass-start 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.house-damage 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.hryvnia 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.i-cursor 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.id-badge 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.id-card-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.igloo 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.image 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.images 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.inbox 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.indent 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.industry 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.infinity 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.info 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.info-circle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.journal-whills 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.kaaba 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.key 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.keyboard 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.khanda 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.kiss-beam 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.kiss-wink-heart 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.kiwi-bird 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.landmark 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.laptop-code 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.laptop-house 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.laugh 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.laugh-beam 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.laugh-wink 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.leaf 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.less-than 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.less-than-equal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.level-down-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.level-up-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.life-ring 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.lightbulb 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.link 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.lira-sign 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.list 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.list-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.list-ul 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.location-arrow 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.lock 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.long-arrow-alt-left 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.long-arrow-alt-right 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.long-arrow-alt-up 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.low-vision 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.luggage-cart 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.lungs-virus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.magic 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.magnet 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.male 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.map 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.map-marked 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.map-marked-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.map-marker 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.map-marker-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.map-signs 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.marker 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mars 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mars-stroke-v 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mask 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.medkit 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.meh 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.meh-blank 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.meh-rolling-eyes 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.memory 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mercury 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.microphone 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.microphone-alt-slash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.minus-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mitten 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mobile-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.money-bill-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.money-check 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.money-check-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.monument 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mortar-pestle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mosque 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.mug-hot 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.music 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.network-wired 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.neuter 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.newspaper 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.not-equal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.notes-medical 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.object-group 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.object-ungroup 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.oil-can 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.om 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.otter 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.outdent 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pager 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.paint-brush 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.paint-roller 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.palette 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pallet 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.paper-plane 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.paperclip 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.paragraph 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.paste 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pause-circle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.paw 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.peace 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pen 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pen-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pen-fancy 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pen-nib 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pen-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pencil-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pencil-ruler 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.people-carry 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.percent 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.percentage 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.person-booth 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.phone-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.phone-slash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.phone-square-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.phone-volume 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.photo-video 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.piggy-bank 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pizza-slice 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.plane 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.plane-departure 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.plane-slash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.play 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.play-circle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.plug 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.plus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.plus-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.podcast 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.poll-h 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.poo 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.poo-storm 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.portrait 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pound-sign 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.prescription 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.prescription-bottle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.prescription-bottle-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.project-diagram 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.pump-soap 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.qrcode 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.question 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.question-circle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.quote-right 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.quran 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.radiation 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.radiation-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.rainbow 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.receipt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.record-vinyl 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.recycle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.redo 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.redo-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.remove-format 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.reply 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.republican 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.restroom 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.road 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.rss 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.rss-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ruler 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ruler-combined 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ruler-horizontal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ruler-vertical 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.running 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sad-tear 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.satellite 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.satellite-dish 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.save 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.school 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.scroll 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sd-card 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.search 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.search-minus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.search-plus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.seedling 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.server 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.shapes 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.share-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.share-alt-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.share-square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.shekel-sign 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.shield-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.shield-virus 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.ship 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.shopping-bag 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.shower 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.shuttle-van 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sign 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sign-in-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sign-out-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.signal 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.signature 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sim-card 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sink 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.skating 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.skiing 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.skiing-nordic 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.skull 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.skull-crossbones 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.slash 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sliders-h 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.smile 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.smile-wink 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.smog 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.smoking 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.smoking-ban 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sms 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.snowflake 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.solar-panel 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sort-alpha-down-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sort-alpha-up 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sort-alpha-up-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sort-amount-down 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sort-numeric-down-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sort-numeric-up 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.sort-numeric-up-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.space-shuttle 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.spider 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.splotch 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.spray-can 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.square 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.square-full 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.square-root-alt 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.star-and-crescent 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.star-half 2.svg.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/fontawesome-free-5.15.4-web/svgs/solid/.star-half-alt 2.svg.icloud" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WLpsBVxeoJ4VNLDePvUlZEzgAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/maliawanderer/Desktop/kanbas1/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/labs" />
+      <recent name="$PROJECT_DIR$/kanbas-app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb116cb4-0e26-480d-91bf-9275e1ce1a17" name="Changes" comment="" />
+      <created>1696521918652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696521918652</updated>
+      <workItem from="1696521919998" duration="2917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
