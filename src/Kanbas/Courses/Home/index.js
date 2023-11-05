@@ -23,8 +23,6 @@ function Home() {
                         </button>
                         <button type="button" className="btn btn-light top-0 end-0">Collapse All
                         </button>
-                        <button type="button" className="btn btn-danger top-0 end-0">+Module
-                        </button>
                         <hr/>
                     </td>
                 </tr>

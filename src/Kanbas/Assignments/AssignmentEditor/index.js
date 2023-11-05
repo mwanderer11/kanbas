@@ -1,31 +1,37 @@
 import React from "react";
-import { useNavigate, useParams, Link } from "react-router-dom";
-import { useSelector} from "react-redux";
+import { useParams, Link } from "react-router-dom";
+import {useDispatch, useSelector} from "react-redux";
+import {
+    addAssignment,
+    deleteAssignment,
+    setAssignment,
+} from "../assignmentsReducer";
 
 function AssignmentEditor() {
-    const { assignmentId } = useParams();
     const {courseId } = useParams();
-    const assignments = useSelector((state) => state.assignmentsReducer.assignments);
-    const assignment = assignments.find(
-        (assignment) => assignment.id === assignmentId);
-
-    const navigate = useNavigate();
-    const handleSave = () => {
-        console.log("Actually saving assignment TBD in later assignments");
-        navigate(`/Kanbas/Courses/${courseId}/Assignments`);
-    };
+    const assignment = useSelector((state) => state.assignmentsReducer.assignment)
+    const dispatch = useDispatch();
     return (
         <div>
+            <Link type="button" className="btn btn-danger float-end"
+                    to={`/Kanbas/Courses/${courseId}/Assignments`}
+                    onClick={() => dispatch(deleteAssignment(assignment))}>
+                Delete Assignment</Link>
             <h2>Assignment Name</h2>
-            <input value={assignment.title}
-                   className="form-control mb-2" />
+            <textarea value={assignment.title}
+                   className="form-control"
+                      onChange={(e) =>
+                          dispatch(setAssignment({...assignment, title: e.target.value}))}/>
             <Link to={`/Kanbas/Courses/${courseId}/Assignments`}
                   className="btn btn-danger">
                 Cancel
             </Link>
-            <button onClick={handleSave} className="btn btn-success me-2">
+            <Link type="button"
+                  to={`/Kanbas/Courses/${courseId}/Assignments`}
+                  onClick={() => dispatch(addAssignment({...assignment, num: courseId}))}
+                    className="btn btn-success me-2">
                 Save
-            </button>
+            </Link>
             <br/> <br/>
             Points:
             <input placeholder="100" className="form-control-sm"/>
