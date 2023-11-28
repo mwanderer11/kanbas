@@ -5,18 +5,19 @@ function EncodingParametersInURLs() {
     const [b, setB] = useState(23);
     const [welcome, setWelcome] = useState("");
     const [result, setResult] = useState(0);
+    const link = 'https://kanbas-node-server-app-d13q.onrender.com/';
     const fetchSum = async (a, b) => {
         const response = await
-            axios.get(`http://localhost:4000/a5/add/${a}/${b}`);
+            axios.get(`${link}/a5/add/${a}/${b}`);
         setResult(response.data);
     };
     const fetchSubtraction = async (a, b) => {
         const response = await axios.get(
-            `http://localhost:4000/a5/subtract/${a}/${b}`);
+            `${link}/a5/subtract/${a}/${b}`);
         setResult(response.data);
     };
     const fetchWelcome = async () => {
-        const response = await axios.get("http://localhost:4000/a5/welcome");
+        const response = await axios.get(`${link}/a5/welcome`);
         setWelcome(response.data);
     };
     useEffect(() => {
@@ -38,18 +39,18 @@ function EncodingParametersInURLs() {
 
             <h3>Path parameters</h3>
             <a
-                href={`http://localhost:4000/a5/add/${a}/${b}`}
+                href={`${link}/a5/add/${a}/${b}`}
                 className="btn btn-primary"> Add {a} + {b} </a>
             <a
-                href={`http://localhost:4000/a5/subtract/${a}/${b}`}
+                href={`${link}/a5/subtract/${a}/${b}`}
                 className="btn btn-danger"> Subtract {a} - {b} </a>
 
             <h3>Query Parameters</h3>
-            <a href={`http://localhost:4000/a5/calculator?operation=add&a=${a}&b=${b}`}
+            <a href={`${link}/a5/calculator?operation=add&a=${a}&b=${b}`}
                 className="btn btn-primary">
                 Add {a} + {b}
             </a>
-            <a href={`http://localhost:4000/a5/calculator?operation=subtract&a=${a}&b=${b}`}
+            <a href={`${link}/a5/calculator?operation=subtract&a=${a}&b=${b}`}
                 className="btn btn-danger">
                 Subtract {a} - {b}
             </a>
