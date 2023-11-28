@@ -9,7 +9,7 @@ import Modules from "./Modules";
 
 function Courses({courses}) {
     const {courseId} = useParams();
-    const URL = "http://localhost:4000/api/courses";
+    const URL = 'https://kanbas-node-server-app-d13q.onrender.com/api/courses';
 
     const [course, setCourse] = useState({});
     const findCourseById = async (courseId) => {
