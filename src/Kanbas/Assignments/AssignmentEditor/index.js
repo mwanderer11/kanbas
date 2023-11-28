@@ -6,7 +6,7 @@ import {
     deleteAssignment,
     setAssignment,
 } from "../assignmentsReducer";
-import { createAssignment, updateAssignment} from "../client";
+import { createAssignment } from "../client";
 import * as client from "../client";
 
 function AssignmentEditor() {
@@ -19,7 +19,7 @@ function AssignmentEditor() {
         });
     };
     const handleDeleteAssignment = (assignmentId) => {
-        client.deleteAssignment(assignmentId).then((status) => {
+        client.deleteAssignment(assignmentId).then(() => {
             dispatch(deleteAssignment(assignmentId));
         });
     };
