@@ -5,7 +5,7 @@ function EncodingParametersInURLs() {
     const [b, setB] = useState(23);
     const [welcome, setWelcome] = useState("");
     const [result, setResult] = useState(0);
-    const link = 'https://kanbas-node-server-app-d13q.onrender.com/';
+    const link = 'https://kanbas-node-server-app-d13q.onrender.com';
     const fetchSum = async (a, b) => {
         const response = await
             axios.get(`${link}/a5/add/${a}/${b}`);

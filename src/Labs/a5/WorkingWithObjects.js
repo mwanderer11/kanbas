@@ -9,7 +9,7 @@ function WorkingWithObjects() {
                                                      completed: false,
                                                      score: 0,
                                                  });
-    const URL = 'https://kanbas-node-server-app-d13q.onrender.com/';
+    const URL = 'https://kanbas-node-server-app-d13q.onrender.com';
     const fetchAssignment = async () => {
         const response = await axios.get(`${URL}`);
         setAssignment(response.data);

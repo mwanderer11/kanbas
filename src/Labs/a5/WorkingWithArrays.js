@@ -8,7 +8,7 @@ function WorkingWithArrays() {
                                          due: "2021-09-09",
                                          completed: false,
                                      });
-    const API = "'https://kanbas-node-server-app-d13q.onrender.com/";
+    const API = "'https://kanbas-node-server-app-d13q.onrender.com";
     const [todos, setTodos] = useState([]);
     const fetchTodos = async () => {
         const response = await axios.get(API);
