@@ -19,7 +19,7 @@ function AssignmentEditor() {
         });
     };
     const handleDeleteAssignment = (assignmentId) => {
-        client.deleteAssignment(assignmentId).then(() => {
+        client.deleteAssignment(assignmentId).then((status) => {
             dispatch(deleteAssignment(assignmentId));
         });
     };
