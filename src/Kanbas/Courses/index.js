@@ -7,7 +7,7 @@ import Assignments from "../Assignments/index.js";
 import AssignmentEditor from "../Assignments/AssignmentEditor";
 import Modules from "./Modules";
 
-function Courses({courses}) {
+function Courses() {
     const {courseId} = useParams();
     const URL = 'https://kanbas-node-server-app-d13q.onrender.com/api/courses';
 
