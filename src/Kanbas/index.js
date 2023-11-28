@@ -37,15 +37,14 @@ function Kanbas() {
     const deleteCourse = async (course) => {
         const response = await axios.delete(`${URL}/${course.id}`);
         setCourses(courses.filter((c) => c.id !== course.id));
+        return response;
     };
 
     const updateCourse = async (course) => {
         const response = await axios.put(
             `${URL}/${course.id}`,
-            course
-        );
-        setCourses(
-            courses.map((c) => {
+            course);
+        setCourses(courses.map((c) => {
                 if (c.id === course.id) {
                     return course;
                 }
@@ -53,6 +52,7 @@ function Kanbas() {
             })
         );
         setCourse({ name: "" });
+        return response;
     };
 
     return (

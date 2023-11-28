@@ -15,9 +15,8 @@ function WorkingWithObjects() {
         setAssignment(response.data);
     };
     const updateTitle = async () => {
-        const response = await axios.get(
-            `${URL}/title/${assignment.title}`
-    )
+        const response = await axios.get(`${URL}/title/${assignment.title}`)
+        return response;
     };
     useEffect(() => {
         fetchAssignment();

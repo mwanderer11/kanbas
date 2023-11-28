@@ -18,9 +18,9 @@ function ModuleList() {
     const {courseId} = useParams();
     useEffect(() => {
         findModulesForCourse(courseId).then((modules) =>
-        dispatch(setModules(modules))
-        );
-    }, [courseId]);
+                      dispatch(setModules(modules)));
+        }, [courseId]);
+
 
     const handleAddModule = () => {
         createModule(courseId, module).then((module) => {
@@ -37,6 +37,7 @@ function ModuleList() {
     const handleUpdateModule = async () => {
         const status = await client.updateModule(module);
         dispatch(updateModule(module));
+        return status;
     };
 
     return (

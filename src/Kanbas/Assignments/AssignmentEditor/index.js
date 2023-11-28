@@ -6,16 +6,28 @@ import {
     deleteAssignment,
     setAssignment,
 } from "../assignmentsReducer";
+import { createAssignment, updateAssignment} from "../client";
+import * as client from "../client";
 
 function AssignmentEditor() {
     const {courseId } = useParams();
     const assignment = useSelector((state) => state.assignmentsReducer.assignment)
     const dispatch = useDispatch();
+    const handleAddAssignment = () => {
+        createAssignment(courseId, assignment).then((assignment) => {
+            dispatch(addAssignment(assignment));
+        });
+    };
+    const handleDeleteAssignment = (assignmentId) => {
+        client.deleteAssignment(assignmentId).then((status) => {
+            dispatch(deleteAssignment(assignmentId));
+        });
+    };
     return (
         <div>
             <Link type="button" className="btn btn-danger float-end"
                     to={`/Kanbas/Courses/${courseId}/Assignments`}
-                    onClick={() => dispatch(deleteAssignment(assignment))}>
+                    onClick={() => handleDeleteAssignment(assignment.id)}>
                 Delete Assignment</Link>
             <h2>Assignment Name</h2>
             <textarea value={assignment.title}
@@ -28,7 +40,7 @@ function AssignmentEditor() {
             </Link>
             <Link type="button"
                   to={`/Kanbas/Courses/${courseId}/Assignments`}
-                  onClick={() => dispatch(addAssignment({...assignment, num: courseId}))}
+                  onClick={handleAddAssignment}
                     className="btn btn-success me-2">
                 Save
             </Link>

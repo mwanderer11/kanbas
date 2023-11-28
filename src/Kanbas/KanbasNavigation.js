@@ -1,12 +1,11 @@
 import { Link, useLocation } from "react-router-dom";
-import "../n.png"
 import {FaUser, FaCalendar, FaClock, FaEnvelope, FaUserFriends, FaInfoCircle}
     from "react-icons/fa";
 import "./index.css"
 
 function KanbasNavigation() {
     const links = ["Inbox", "Groups", "Calendar", "Help"];
-    const N = <img src="../." width={100} height={100} alt=""></img>
+    const N = <img src="../n.png" width={100} height={100} alt=""></img>
     const icons = [<FaEnvelope/>, <FaUserFriends/>, <FaCalendar/>,
     <FaInfoCircle/>]
     const { pathname } = useLocation();
