@@ -16,7 +16,7 @@ function Assignments() {
     useEffect(() => {
         findAssignmentForCourse(courseId).then((assignments) =>
         dispatch(setAssignments(assignments)));
-    }, [courseId]);
+    });
     return (
         <div>
             <Link type="button" className="btn btn-danger float-end"
