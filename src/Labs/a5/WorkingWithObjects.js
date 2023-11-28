@@ -36,14 +36,14 @@ function WorkingWithObjects() {
                 Get Title
             </a>
             <h4>Modifying Properties</h4>
-            <a href={`${URL}/title/${assignment.title}`}
+            <a href={`${URL}/a5/assignment/title/${assignment.title}`}
                 className="btn btn-primary me-2 float-end">Update Title</a>
             <input onChange={(e) => setAssignment({ ...assignment, title: e.target.value })}
                 value={assignment.title}
                 className="form-control mb-2 w-75"
                 type="text"/>
 
-            <a href={`${URL}/score/${assignment.score}`}
+            <a href={`${URL}/a5/assignment/score/${assignment.score}`}
                className="btn btn-primary me-2 float-end">Update Score</a>
             <input onChange={(e) => setAssignment({ ...assignment, score: parseInt(e.target.value) })}
                    value={assignment.score}
