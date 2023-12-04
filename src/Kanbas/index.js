@@ -19,7 +19,7 @@ function Kanbas() {
                                              startDate: "2023-09-10",
                                              endDate: "2023-12-15",
                                          });
-    const URL = 'https://kanbas-node-server-app-d13q.onrender.com/api/courses';
+    const URL = 'https://kanbas-node-server-app-d13q.onrender.com/api/courses'
     const addNewCourse = async () => {
         const response = await axios.post(URL, course);
         setCourses([response.data, ...courses]);

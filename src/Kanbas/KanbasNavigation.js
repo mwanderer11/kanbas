@@ -40,7 +40,7 @@ function KanbasNavigation() {
                     key={index}
                     to={`${link}`}
                     className={
-                    `nav-link list-group-item list-group-item-danger ${pathname.includes(link) && "active"}`}>
+                    `nav-link list-group-item ${pathname.includes(link) && "active"}`}>
                     <h2> {icons[index]} </h2> {link}
                 </Link>
             ))}
