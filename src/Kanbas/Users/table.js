@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import * as client from "./client";
 import {BsTrash3Fill, BsPlusCircleFill, BsFillCheckCircleFill, BsPencil} from "react-icons/bs";
+import {Link} from "react-router-dom"
 
 function UserTable() {
     const [users, setUsers] = useState([]);
@@ -82,7 +83,9 @@ function UserTable() {
                 <tbody>
                 {users.map((user) => (
                     <tr key={user._id}>
-                        <td>{user.username}</td>
+                        <td>
+                            <Link to={`/Kanbas/Account/${user._id}`}> {user.username}
+                            </Link></td>
                         <td>{user.firstName}</td>
                         <td>{user.lastName}</td>
                     </tr>))}

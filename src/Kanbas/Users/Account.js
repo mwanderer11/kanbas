@@ -13,7 +13,7 @@ function Account() {
     };
     const signout = async () => {
         await client.signout();
-        navigate("/project/signin");
+        navigate("/Kanbas/signin");
     };
     useEffect(() => {
         fetchAccount();
@@ -23,22 +23,22 @@ function Account() {
             <h1>Account</h1>
             {account && (
                 <div>
-                    <input value={account.password}
+                    <input className="form-control" value={account.password}
                            onChange={(e) => setAccount({ ...account,
                                                            password: e.target.value })}/>
-                    <input value={account.firstName}
+                    <input className="form-control" value={account.firstName}
                            onChange={(e) => setAccount({ ...account,
                                                            firstName: e.target.value })}/>
-                    <input value={account.lastName}
+                    <input className="form-control" value={account.lastName}
                            onChange={(e) => setAccount({ ...account,
                                                            lastName: e.target.value })}/>
-                    <input value={account.dob}
+                    <input className="form-control" value={account.dob}
                            onChange={(e) => setAccount({ ...account,
                                                            dob: e.target.value })}/>
-                    <input value={account.email}
+                    <input className="form-control" value={account.email}
                            onChange={(e) => setAccount({ ...account,
                                                            email: e.target.value })}/>
-                    <select onChange={(e) => setAccount({ ...account,
+                    <select className="form-select" onChange={(e) => setAccount({ ...account,
                                                             role: e.target.value })}>
                         <option value="USER">User</option>
                         <option value="ADMIN">Admin</option>
@@ -49,7 +49,7 @@ function Account() {
                         Save
                     </button>
                     <button onClick={signout} className="btn btn-danger">Sign out</button>
-                    <Link to="/project/admin/users" className="btn btn-warning w-100">
+                    <Link to="/Kanbas/users" className="btn btn-warning w-100">
                         Users
                     </Link>
                 </div>

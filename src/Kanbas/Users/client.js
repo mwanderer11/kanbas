@@ -1,6 +1,6 @@
 import axios from "axios";
-export const BASE_API = process.env.REACT_APP_BASE_API_URL;
-export const USERS_API = `${BASE_API}/api/users`;
+export const BASE_API = "mongodb+srv://wandererm:PokeMonroCks@kanbas.50wwjz1.mongodb.net/?retryWrites=true&w=majority";
+export const USERS_API = `${BASE_API}/kanbas/api/users`;
 
 const request = axios.create({withCredentials: true,});
 export const signin = async (credentials) => {

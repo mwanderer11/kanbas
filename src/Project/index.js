@@ -6,15 +6,12 @@ import Nav from "../Nav";
 function Project() {
     return (
         <div className="row">
-            <div className="col-2">
-                <Nav />
-            </div>
             <div className="col-10">
                 <Routes>
-                    <Route path="/" element={<Navigate to="../Kanbas/Courses/Home" />} />
+                   {/*<Route path="/" element={<Navigate to="../Kanbas/Courses/Home" />} />*/}
                     <Route path="/signin" element={<Signin/>} />
-                    <Route path="/admin/users" element={<UserTable/>}/>
-                    <Route path="/account" element={<Account/>}/>
+                    <Route path="/" element={<UserTable/>}/>
+                    <Route path="/Account" element={<Account/>}/>
                 </Routes>
             </div>
         </div>

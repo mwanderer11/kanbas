@@ -6,14 +6,24 @@ function Signin() {
     const navigate = useNavigate();
     const signin = async () => {
         await client.signin(credentials);
-        navigate("/Project/Account");
+        navigate("/Kanbas/Account");
     };
+    const signup = async () => {
+        navigate("/Kanbas/signup")
+    }
     return (
         <div>
             <h1>Sign in</h1>
-            <input value={credentials.username} onChange={(e) => setCredentials({...credentials, username: e.target.value})}/>
-            <input value={credentials.password} onChange={(e) => setCredentials({...credentials, password: e.target.value})}/>
-            <button onClick={signin}> Signin </button>
+            <input className="form-control-sm"
+                   value={credentials.username}
+                   onChange={(e) => setCredentials({...credentials, username: e.target.value})}/>
+            <br/>
+            <input className="form-control-sm"
+                   value={credentials.password}
+                   onChange={(e) => setCredentials({...credentials, password: e.target.value})}/>
+            <br/>
+            <button className="btn btn-success" type="button" onClick={signin}> Sign in </button>
+            <button className="btn btn-warning" type="button" onClick={signup}>Sign up</button>
         </div>
     );
 }
