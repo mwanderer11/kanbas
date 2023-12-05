@@ -49,7 +49,7 @@ function Account() {
                         Save
                     </button>
                     <button onClick={signout} className="btn btn-danger">Sign out</button>
-                    <Link to="/Kanbas/users" className="btn btn-warning w-100">
+                    <Link to="/Kanbas/Users" className="btn btn-warning w-100">
                         Users
                     </Link>
                 </div>
