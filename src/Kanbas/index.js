@@ -10,7 +10,6 @@ import store from "./store";
 import {useEffect, useState} from "react";
 import {Provider} from "react-redux";
 import axios from "axios"
-import Project from "../Project";
 import Signin from "./Users/signin";
 import UserTable from "./Users/table";
 import Account from "./Users/Account";
