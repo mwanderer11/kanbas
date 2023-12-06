@@ -23,7 +23,7 @@ function Kanbas() {
                                              startDate: "2023-09-10",
                                              endDate: "2023-12-15",
                                          });
-    const BASE_URL = process.env.REACT_APP_BASE_URL;
+    const BASE_URL = process.env.REACT_APP_API_BASE;
     const URL = `${BASE_URL}/courses`
     const addNewCourse = async () => {
         const response = await axios.post(URL, course);
