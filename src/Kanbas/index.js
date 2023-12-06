@@ -23,7 +23,8 @@ function Kanbas() {
                                              startDate: "2023-09-10",
                                              endDate: "2023-12-15",
                                          });
-    const URL = 'https://kanbas-node-server-app-2-ztmm.onrender.com/api/courses'
+    const BASE_URL = process.env.REACT_APP_BASE_URL;
+    const URL = `http://localhost:4000/api/courses`
     const addNewCourse = async () => {
         const response = await axios.post(URL, course);
         setCourses([response.data, ...courses]);

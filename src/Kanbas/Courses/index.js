@@ -9,7 +9,8 @@ import Modules from "./Modules";
 
 function Courses() {
     const {courseId} = useParams();
-    const URL = 'https://kanbas-node-server-app-2-ztmm.onrender.com/api/courses';
+    const BASE_URL = process.env.REACT_APP_API_BASE;
+    const URL = `${BASE_URL}/courses`;
 
     const [course, setCourse] = useState({});
     const findCourseById = async (courseId) => {
