@@ -24,7 +24,7 @@ function Kanbas() {
                                              endDate: "2023-12-15",
                                          });
     const BASE_URL = process.env.REACT_APP_BASE_URL;
-    const URL = `http://localhost:4000/api/courses`
+    const URL = `${BASE_URL}/courses`
     const addNewCourse = async () => {
         const response = await axios.post(URL, course);
         setCourses([response.data, ...courses]);
@@ -37,7 +37,7 @@ function Kanbas() {
 
     useEffect(() => {
         findAllCourses();
-    }, [])
+    })
 
     const deleteCourse = async (course) => {
         const response = await axios.delete(`${URL}/${course.id}`);

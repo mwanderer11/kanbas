@@ -1,6 +1,6 @@
 import axios from "axios";
-//export const BASE_API = "https://kanbas-node-server-app-2-ztmm.onrender.com/api";
-export const USERS_API = `http://localhost:4000/api/users`;
+export const BASE_API = process.env.REACT_APP_API_BASE;
+export const USERS_API = `${BASE_API}/users`;
 
 const request = axios.create({withCredentials: true,});
 export const signin = async (credentials) => {

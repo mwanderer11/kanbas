@@ -21,7 +21,7 @@ function Courses() {
     };
     useEffect(() => {
         findCourseById(courseId);
-    }, [courseId]);
+    });
 
     return (
         <div className="table-responsive">
