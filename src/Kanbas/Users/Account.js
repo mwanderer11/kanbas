@@ -1,13 +1,19 @@
 import * as client from "./client";
 import { useState, useEffect } from "react";
-import { useNavigate, Link } from "react-router-dom";
+import { useNavigate, Link, useParams } from "react-router-dom";
+import {findUserById} from "./client";
 function Account() {
+    const {id} = useParams();
     const [account, setAccount] = useState(null);
     const navigate = useNavigate();
     const fetchAccount = async () => {
         const account = await client.account();
         setAccount(account);
     };
+    const findUserById = async (id) => {
+        const user = await client.findUserById(id);
+        setAccount(user);
+    }
     const save = async () => {
         await client.updateUser(account);
     };
@@ -19,7 +25,11 @@ function Account() {
         navigate("/Kanbas/signin")
     }
     useEffect(() => {
-        fetchAccount();
+        if(id) {
+            findUserById(id);
+        } else {
+            fetchAccount();
+        }
     }, []);
 
     return (
