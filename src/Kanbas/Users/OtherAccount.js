@@ -32,6 +32,11 @@ function OtherAccount() {
                     </Link>
                 </div>
             )}
+            {!account && (
+                <div>
+                    uh oh
+                </div>
+            )}
         </div>
     );
 }
