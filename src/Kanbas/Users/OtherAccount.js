@@ -1,8 +1,8 @@
+import * as client from "./client"
 import { useParams, Link } from "react-router-dom";
-import {findUserById} from "./client";
 function OtherAccount() {
     const {userId} = useParams();
-    const viewAccount = findUserById(userId);
+    const viewAccount = client.findUserById(userId);
 
     return (
         <div className="w-50">
