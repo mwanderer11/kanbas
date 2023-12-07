@@ -14,6 +14,7 @@ import Signin from "./Users/signin";
 import UserTable from "./Users/table";
 import Account from "./Users/Account";
 import Signup from "./Users/signup";
+import OtherAccount from "./Users/OtherAccount";
 
 function Kanbas() {
     const [courses, setCourses] = useState([]);
@@ -98,7 +99,7 @@ function Kanbas() {
                             <Route path="/signup" element={<Signup/>}/>
                             <Route path="/Users" element={<UserTable/>}/>
                             <Route path="/Account" element={<Account/>}/>
-                            <Route path="/Account/:id" element={<Account/>}/>
+                            <Route path="/Account/:id" element={<OtherAccount/>}/>
                         </Routes>
                     </div>
                 </td>

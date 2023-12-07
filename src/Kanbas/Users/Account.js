@@ -21,6 +21,7 @@ function Account() {
     useEffect(() => {
         fetchAccount();
     }, []);
+
     return (
         <div className="w-50">
             <h1>Account</h1>
