@@ -16,7 +16,7 @@ function KanbasNavigation() {
             </div>
             <Link
                 key={0}
-                to={`signin`}
+                to={`Account`}
                 className={
                     `nav-link list-group-item list-group-item-danger ${pathname.includes(`Account`) && "active"}`}>
                 <h2> {<FaUser/>} </h2> Account
