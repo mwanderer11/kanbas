@@ -11,7 +11,6 @@ function OtherAccount() {
     useEffect(() => {
         findUserById(userId);
     })
-    console.log(viewAccount);
 
     return (
         <div className="w-50">
@@ -31,11 +30,6 @@ function OtherAccount() {
                     <Link to="/Kanbas/Users" className="btn btn-warning w-100">
                         Users
                     </Link>
-                </div>
-            )}
-            {!viewAccount && (
-                <div>
-                    uh oh
                 </div>
             )}
         </div>
