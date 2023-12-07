@@ -1,7 +1,7 @@
 import * as client from "./client";
 import { useState, useEffect } from "react";
 import { useNavigate, Link, useParams } from "react-router-dom";
-import {findUserById} from "./client";
+
 function Account() {
     const {id} = useParams();
     const [account, setAccount] = useState(null);
@@ -30,7 +30,7 @@ function Account() {
         } else {
             fetchAccount();
         }
-    }, []);
+    });
 
     return (
         <div className="w-50">
