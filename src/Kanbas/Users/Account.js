@@ -15,6 +15,9 @@ function Account() {
         await client.signout();
         navigate("/Kanbas/signin");
     };
+    const signin = async () => {
+        navigate("/Kanbas/signin")
+    }
     useEffect(() => {
         fetchAccount();
     }, []);
@@ -54,6 +57,7 @@ function Account() {
                     </Link>
                 </div>
             )}
+            <button onClick{signin} className="btn btn-danger">Sign in</button>
         </div>
     );
 }
