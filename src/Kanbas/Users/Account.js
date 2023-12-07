@@ -37,13 +37,13 @@ function Account() {
             <h1>Account</h1>
             {account && (
                 <div>
-                    if(!id) {
-                    <input className="form-control" value={account.password}
-                           onChange={(e) => setAccount({
-                                                           ...account,
-                                                           password: e.target.value
-                                                       })}/>
-                }
+                    {!id && (
+                        <input className="form-control" value={account.password}
+                               onChange={(e) => setAccount({
+                                                               ...account,
+                                                               password: e.target.value
+                                                           })}/>
+                    )}
                     <input className="form-control" value={account.firstName}
                            onChange={(e) => setAccount({ ...account,
                                                            firstName: e.target.value })}/>
