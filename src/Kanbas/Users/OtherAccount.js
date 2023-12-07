@@ -1,18 +1,27 @@
 import * as client from "./client"
 import { useParams, Link } from "react-router-dom";
+import {useEffect, useState} from "react";
 function OtherAccount() {
+    const [account, setAccount] = useState(null);
     const {userId} = useParams();
-    const viewAccount = client.findUserById(userId);
+    const findUserById = async (userId) => {
+        const user = await client.findUserById(userId);
+        setAccount(user);
+    }
+    useEffect(() => {
+        findUserById(userId);
+    })
+    console.log(viewAccount);
 
     return (
         <div className="w-50">
             <h1>Account</h1>
-            {viewAccount && (
+            {account && (
                 <div>
-                    <input className="form-control"  value={viewAccount.firstName} />
-                    <input className="form-control" value={viewAccount.lastName}/>
-                    <input className="form-control" value={viewAccount.dob}/>
-                    <input className="form-control" value={viewAccount.email} />
+                    <input className="form-control"  value={account.firstName} />
+                    <input className="form-control" value={account.lastName}/>
+                    <input className="form-control" value={account.dob}/>
+                    <input className="form-control" value={account.email} />
                     <select className="form-select">
                         <option value="USER">User</option>
                         <option value="ADMIN">Admin</option>
