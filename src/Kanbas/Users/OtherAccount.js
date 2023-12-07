@@ -9,10 +9,10 @@ function OtherAccount() {
             <h1>Account</h1>
             {viewAccount && (
                 <div>
-                    <input className="form-control"  value={viewAccount.firstName} id="disabled-input"/>
-                    <input className="form-control" value={viewAccount.lastName} id="disabled-input"/>
-                    <input className="form-control" value={viewAccount.dob} id="disabled-input"/>
-                    <input className="form-control" value={viewAccount.email} id="disabled-input"/>
+                    <input className="form-control"  value={viewAccount.firstName} />
+                    <input className="form-control" value={viewAccount.lastName}/>
+                    <input className="form-control" value={viewAccount.dob}/>
+                    <input className="form-control" value={viewAccount.email} />
                     <select className="form-select">
                         <option value="USER">User</option>
                         <option value="ADMIN">Admin</option>
