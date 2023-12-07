@@ -1,18 +1,8 @@
-import * as client from "./client";
-import { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 import {findUserById} from "./client";
 function OtherAccount() {
-    const [account, setAccount] = useState(null);
-    const fetchAccount = async () => {
-        const account = await client.account();
-        setAccount(account);
-    };
     const {userId} = useParams();
     const viewAccount = findUserById(userId);
-    useEffect(() => {
-        fetchAccount();
-    }, []);
 
     return (
         <div className="w-50">
